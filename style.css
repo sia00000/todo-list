@@ -12,10 +12,15 @@ html {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  color: whitesmoke;
+  font-family: "Poppins", sans-serif;
+
   font-size: large;
   font-weight: 500;
+}
+
+h1 {
+  text-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  margin: 10px;
 }
 
 .container {
